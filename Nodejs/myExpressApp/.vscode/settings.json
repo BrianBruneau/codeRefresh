@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dc00e3e8-a641-4b0f-96c0-5bf98a8e4863/resourceGroups/AzureTutorial-bb-rg/providers/Microsoft.Web/sites/AzureTutorial-bb",
+    "appService.deploySubpath": "."
+}
